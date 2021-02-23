@@ -7,6 +7,40 @@
 <h1 >
 selamat datang di halaman home
 </h1>
-  </body>
+  <table border=1  valign=middle  cellspacing=2  cellpadding=10>
+<TR>
+ <TH >Nomor:</TH>
+ <TH >17</TH>
+</TR>
+<TR>
+  <TH>Nama:</TH>  
+  <TH>Leonardo Setiawan</TH>
+</TR>  
+<TR>
+  <TH>Email:</TH>
+  <TH>leonardolau.1503@gmail.com</TH>
+</TR>
+<TR>
+  <TH>Jenis kelamin:</TH>
+  <TH>Laki-laki</TH>
+</TR>
+<TR>
+  <TH>Telepon:</TH>
+  <TH>083877647769</TH>
+</TR>
+<TR>
+  <TH>Sekolah:</TH>
+  <TH>SMK Cinta Kasih Tzu Chi</TH>
+</TR>
+<TR>
+  <TH>Tempat&tanggal Lahir:</TH>
+  <TH>JKT,15 MARET 2005</TH>
+</TR>
+<TR>
+  <TH>Umur:</TH>
+  <TH>16 tahun</TH>
+</TR>
+   </body>
   </head> 
 </html>
+ 
